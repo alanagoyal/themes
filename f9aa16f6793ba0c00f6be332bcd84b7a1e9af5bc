@@ -1,0 +1,37 @@
+current-v4/texts.css
+  94c6deea880ee2a5 748
+  c314773add60e605 749-750
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "f9aa16f6793ba0c00f6be332bcd84b7a1e9af5bc",
+  "prompts": {
+    "94c6deea880ee2a5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7b4c774c-39c0-49a5-812c-2edcf26404ae",
+        "model": "default"
+      },
+      "human_author": "alanagoyal",
+      "messages": [],
+      "total_additions": 139,
+      "total_deletions": 109,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    },
+    "c314773add60e605": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d74cd-f022-7be0-a22b-ddb1ebc7dff9",
+        "model": "gpt-5.4"
+      },
+      "human_author": "alanagoyal",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 32,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
