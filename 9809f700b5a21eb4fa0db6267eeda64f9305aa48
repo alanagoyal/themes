@@ -1,0 +1,23 @@
+current-v4/texts.css
+  c314773add60e605 748
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "9809f700b5a21eb4fa0db6267eeda64f9305aa48",
+  "prompts": {
+    "c314773add60e605": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019d74cd-f022-7be0-a22b-ddb1ebc7dff9",
+        "model": "gpt-5.4"
+      },
+      "human_author": "alanagoyal",
+      "messages": [],
+      "total_additions": 48,
+      "total_deletions": 51,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
